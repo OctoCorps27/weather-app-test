@@ -1,7 +1,7 @@
 import React from 'react';
 import { AppBar, Toolbar, Typography, Box } from '@mui/material';
 
-//test push
+
 const TopBar = () => {
   return (
     <AppBar position="static" sx={{ backgroundColor: '#2196f3', boxShadow: 3 }}>
